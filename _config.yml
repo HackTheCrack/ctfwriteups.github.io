@@ -1,9 +1,9 @@
 title: HackTheCrack-CtfBlog
-description: "A Jekyll Blog Theme For Hackers"
-author:
-  name: "SomeHacker"
-  email: "someone@somewebsite.somedomain"
-  url: "https://ashishchaudhary.in/hacker-blog"
+description: "A CTF Write up For Hackers"
+author: "Eshan"
+  name: "Hack The Crack"
+  email: "cracker.eshan@gmail.com"
+  url: ""
 
 baseurl: /
 
