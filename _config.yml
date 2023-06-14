@@ -1,9 +1,9 @@
-title: HackTheCrack-CtfBlog
+title: HackTheCrack
 description: "A CTF Write up For Hackers"
 author: "Eshan"
   name: "Hack The Crack"
   email: "cracker.eshan@gmail.com"
-  url: ""
+  url: "https://hackthecrack.github.io/ctfwriteups.github.io/"
 
 baseurl: /
 
